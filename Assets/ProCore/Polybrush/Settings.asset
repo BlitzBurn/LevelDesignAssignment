@@ -28,7 +28,7 @@ MonoBehaviour:
   m_bool_values: 010101000101
   m_int_values: 01000000
   m_float_values:
-  - -1
+  - 1
   m_string_values: []
   m_Color_values:
   - {r: 0, g: 0.8, b: 1, a: 1}
